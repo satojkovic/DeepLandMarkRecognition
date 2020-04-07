@@ -1,1 +1,1 @@
-# landmark-recognition
+# DeepLandMarkRecognition
